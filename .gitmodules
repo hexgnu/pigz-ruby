@@ -1,0 +1,3 @@
+[submodule "ext/pigz"]
+	path = ext/pigz
+	url = git://github.com/madler/pigz.git
